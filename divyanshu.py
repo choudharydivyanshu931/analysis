@@ -25,4 +25,5 @@ def who_is_muthhal():
             print("thankyou")
 who_is_muthhal()
 print("hope you guys agree with my programm")
+print("github successfull!!")
           
