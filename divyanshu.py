@@ -26,4 +26,5 @@ def who_is_muthhal():
 who_is_muthhal()
 print("hope you guys agree with my programm")
 print("github successfull!!")
+print("pull request to merge side1 successful")
           
