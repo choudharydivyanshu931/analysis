@@ -1,6 +1,6 @@
 # analysis
-<H1> HI , DIVYANSHU😂
-<H2> hi keshav kr singh</H2>
+<H1>DIVYANSHU😂</H1>
+<H2> keshav kr singh(●'◡'●)</H2>
 <H3>☢️ARJUN☢️</H3>
 
 <h1 align="center">✨ Welcome to My Space ✨</h1>
