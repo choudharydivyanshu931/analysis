@@ -19,7 +19,7 @@
 
   <div style="background:#1e1e1e; color:#fff; padding:15px 25px; border-radius:12px; width:220px; box-shadow:0 4px 8px rgba(0,0,0,0.3);">
     <h3 style="color:#00ff99;">🚀 Projects</h3>
-    <p>PROJECT_M💦💦</p>
+    <p>PROJECT_M</p>
   </div>
 
    <div class="dropdown">
