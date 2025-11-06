@@ -4,7 +4,7 @@
 <div align="center">
   <p>
     <br>
-    I'm <span style="color:#00bfff;">project_M</span>, DIVYANSHU😁 ARJUN😘 KESHAV😎.<br>
+    I'm <span style="color:#00bfff;">project_M</span>, DIVYANSHU😁 ARJUN KESHAV😎.<br>
    TEAM OF 3 MEMBERS 🚀
   </p>
 </div>
