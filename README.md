@@ -1,7 +1,3 @@
-🤑🤑🎗️🎯
-<H1> HI , DIVYANSHU😂
-<H2> hi keshav kr singh</H2>
-<H3>☢️ARJUN☢️</H3>
 
 <h1 align="center">✨ Welcome to Open-Source ✨</h1>
 <h2 align ="center">version1.1🥇</h2>
